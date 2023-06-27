@@ -34,10 +34,10 @@ To run the English Learning App, follow these steps:
 3. Install the required dependencies by running the following command:
 
    ```bash
-   pip install module1 module2 module3
+   pip install module1 module2 
    ```
 
-   Replace `gtts`, `tkinter`, and `playsound` with the actual names of the required third-party modules.
+   Replace `gtts`, `playsound` with the actual names of the required third-party modules.
 
 ## Usage
 
